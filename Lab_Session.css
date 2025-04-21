@@ -1,0 +1,26 @@
+h1{
+    background-color: brown;
+    border: 5px,solid;
+    text-align: center;
+}
+p{
+    background-color: bisque;
+    border: 4px,solid;
+    text-align: center;
+    background-size: contain;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.outer{
+    background-color: chocolate;
+    border: 4px,solid;
+    padding: 20px;
+    margin: 20px;
+}
+.inner{
+    background-color: chocolate;
+    border: 4px,solid;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
