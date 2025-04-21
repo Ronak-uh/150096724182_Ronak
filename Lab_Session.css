@@ -1,26 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+} 
 h1{
-    background-color: brown;
-    border: 5px,solid;
+    background-color: yellow;
+    border: 1px,solid;
     text-align: center;
+    color: red;
+    font-size: 30px;
+    margin: 10px;
+    border-color: black;
 }
 p{
-    background-color: bisque;
-    border: 4px,solid;
+    background-color: yellow;
+    border: 1px,solid;
     text-align: center;
     background-size: contain;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin: 10px;
+    border-color: black;
 }
 .outer{
-    background-color: chocolate;
-    border: 4px,solid;
-    padding: 20px;
-    margin: 20px;
+    background-color: yellow;
+    border: 1px,solid;
+    padding: 10px;
+    margin: 10px;
 }
 .inner{
-    background-color: chocolate;
-    border: 4px,solid;
-    padding: 20px;
-    margin: 20px;
+    background-color: yellow;
+    border: 1px,solid;
+    padding: 10px;
+    margin: 10px;
     text-align: center;
 }
